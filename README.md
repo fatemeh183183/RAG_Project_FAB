@@ -238,6 +238,18 @@ ROUGE-1 / ROUGE-2 / ROUGE-L
 BLEU score
 
 
+# Local Q&A Chatbot with Citations
+
+This is a Streamlit-based RAG application for local document Q&A with citations.
+
+## Live Demo
+👉 [(https://ragprojectfab-jjcas8myfqnrgjgq25nymr.streamlit.app/)
+
+## How to use
+1. Open the app using the link above
+2. Enter your own OpenAI API key
+3. Upload the embedded `.pkl` file
+4. Ask questions
 
 
 
