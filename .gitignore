@@ -49,3 +49,6 @@ htmlcov/
 # Model cache
 .cache/
 huggingface/
+.env
+.DS_Store
+*.pkl
